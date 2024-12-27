@@ -1,4 +1,0 @@
-"AadClientId": "953ab28e-c62c-46d6-819e-07f415981bc8",
-  "AadSecret": "80C8Q~9uOFt~RZNTyxvyYnjKGniJpExAT_GCeb5p",
-  "AadTenantDomain": "liebherrcloud.com",
-  "AadTenantId": "ba25d3ab-8d21-4ffb-9b12-e892b0bca64e",
